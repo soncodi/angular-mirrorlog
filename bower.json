@@ -1,0 +1,33 @@
+{
+  "name": "angular-mirrorlog",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ruff/angular-mirrorlog",
+  "authors": [
+    "Alex Soncodi <asoncodi@gmail.com>"
+  ],
+  "description": "mirrorlog for AngularJS - mirror console output to DOM",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "log",
+    "logger",
+    "logging",
+    "DOM",
+    "element",
+    "screen"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "example/vendor",
+    "test",
+    "tests",
+
+    "example"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16"
+  }
+}
