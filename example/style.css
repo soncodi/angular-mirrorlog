@@ -1,0 +1,10 @@
+
+.mirrorlog {
+  padding: 20px;
+  max-height: 200px;
+  white-space: pre-wrap;
+  font-family: monospace;
+  color: #bada55;
+  background-color: #333;
+  overflow-y: auto;
+}
